@@ -1,0 +1,17 @@
+transaction_date,transaction,name,memo,amount
+01/15/2025,DEBIT,STARBUCKS #12345 NEW YORK NY,"Rewards earned: 0.06 ~ Category: Restaurant",-12.45
+01/14/2025,DEBIT,WHOLE FOODS MARKET BOSTON MA,"Rewards earned: 0.15 ~ Category: Grocery",-29.87
+01/14/2025,DEBIT,METRO TRANSIT CHICAGO IL,"Rewards earned: 0.03 ~ Category: Transportation",-5.50
+01/13/2025,DEBIT,NETFLIX.COM LOS ANGELES CA,"Rewards earned: 0.08 ~ Category: Entertainment",-15.99
+01/12/2025,DEBIT,SHELL GAS STATION SEATTLE WA,"Rewards earned: 0.42 ~ Category: Gas",-84.32
+01/11/2025,DEBIT,TARGET STORE #1892 PORTLAND OR,"Rewards earned: 0.23 ~ Category: Shopping",-45.67
+01/10/2025,CREDIT,PAYROLL DEPOSIT ACME CORP,"",-2850.00
+01/09/2025,DEBIT,AMAZON.COM SEATTLE WA,"Rewards earned: 0.34 ~ Category: Shopping",-68.99
+01/08/2025,DEBIT,CHIPOTLE #2341 DENVER CO,"Rewards earned: 0.11 ~ Category: Restaurant",-21.78
+01/07/2025,DEBIT,FITNESS FIRST GYM MIAMI FL,"Rewards earned: 2.50 ~ Category: Health & Fitness",-49.99
+01/06/2025,DEBIT,CVS PHARMACY #4532 ATLANTA GA,"Rewards earned: 0.09 ~ Category: Pharmacy",-18.23
+01/05/2025,DEBIT,UBER TRIP SAN FRANCISCO CA,"Rewards earned: 0.14 ~ Category: Transportation",-27.50
+01/04/2025,DEBIT,TRADER JOE'S AUSTIN TX,"Rewards earned: 0.31 ~ Category: Grocery",-62.14
+01/03/2025,DEBIT,SPOTIFY PREMIUM NEW YORK NY,"Rewards earned: 0.05 ~ Category: Entertainment",-10.99
+01/02/2025,DEBIT,PARKING METER DOWNTOWN HOUSTON TX,"Rewards earned: 0.08 ~ Category: Parking",-15.00
+01/01/2025,DEBIT,RESTAURANT LE BISTRO PHILADELPHIA PA,"Rewards earned: 0.89 ~ Category: Restaurant",-178.45
