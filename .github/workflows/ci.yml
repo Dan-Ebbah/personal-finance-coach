@@ -14,6 +14,8 @@ jobs:
   tests:
     name: Python tests
     runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: ${{ github.workspace }}/src
     strategy:
       fail-fast: true
       matrix:
